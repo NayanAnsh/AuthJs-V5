@@ -2,7 +2,6 @@
 import { FaGithub } from "react-icons/fa";
 import { Button } from "../ui/button";
 import { FcGoogle } from "react-icons/fc";
-import { signIn } from "@/auth";
 import { DEFAULT_LOGIN_REDIRECT } from "@/routes";
 import { OnClick } from "@/actions/loginOnClick";
 
